@@ -48,7 +48,7 @@ GEM
     trollop (1.16.2)
     tzinfo (0.3.22)
     will_paginate (3.0.pre2)
-    yard (0.5.8)
+    yard (0.9.20)
 
 PLATFORMS
   ruby
