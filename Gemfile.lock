@@ -47,7 +47,7 @@ GEM
     term-ansicolor (1.0.5)
     trollop (1.16.2)
     tzinfo (0.3.22)
-    will_paginate (3.0.pre2)
+    will_paginate (3.3.0)
     yard (0.5.8)
 
 PLATFORMS
